@@ -1,6 +1,5 @@
 # URL Shortener
 
-If you have issues or want a new feature from the **`generator-rpp-hexagonal-app`** please create an [issue](https://sgithub.fr.world.socgen/ItecFccRpp/generator-rpp-hexagonal-app/issues/new/choose) 
 
 ## Aim
 
